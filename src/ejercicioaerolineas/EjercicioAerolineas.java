@@ -54,5 +54,10 @@ public class EjercicioAerolineas {
         }
 
 
+        System.out.println("\n " +
+                "Thank you for testing this app in your terminal \n " +
+                "Please, visit my github: \n" +
+                "https://github.com/MemoSainz/");
+
     }
 }
