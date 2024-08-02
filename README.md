@@ -1,6 +1,7 @@
 <div align="center">
 
 > [!Important]
+> 
 > An airline has 6 destinations to which it operates 3 flights daily, one in the morning, one at noon and one at night. To manage this data, it uses a matrix, where each row is a destination and each column stores the number of available seats.
 
 
